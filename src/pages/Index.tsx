@@ -137,7 +137,7 @@ const Index = () => {
                   </div>
                 </div>
                 <CardContent className="p-6">
-                  <h3 className="text-xl font-bold mb-2">{house.title}</h3>
+                  <h3 className="text-xl font-bold mb-2">Дом с баней Осина</h3>
                   <div className="flex items-center gap-4 text-sm text-muted-foreground mb-4">
                     <span className="flex items-center gap-1">
                       <Icon name="Users" size={16} />
