@@ -20,7 +20,7 @@ const houses = [
   },
   {
     id: 2,
-    title: 'Уютный домик с камином',
+    title: 'Семейный люкс номер',
     image: 'https://cdn.poehali.dev/projects/7f3a8850-278f-4553-b2e5-a08ed597819e/files/3cbd383f-b98b-4056-a700-3fbbfedb5fab.jpg',
     price: '12 000 ₽',
     guests: 6,
@@ -30,7 +30,7 @@ const houses = [
   },
   {
     id: 3,
-    title: 'Скандинавский дом',
+    title: 'Дом с сауной Синюха',
     image: 'https://cdn.poehali.dev/projects/7f3a8850-278f-4553-b2e5-a08ed597819e/files/936d3b0c-53fb-4ece-968f-9427785b2b59.jpg',
     price: '18 000 ₽',
     guests: 10,
