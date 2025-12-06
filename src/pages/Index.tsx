@@ -10,11 +10,11 @@ import Icon from '@/components/ui/icon';
 const houses = [
   {
     id: 1,
-    title: 'Современная вилла в лесу',
+    title: 'Дом с баней Осина',
     image: 'https://cdn.poehali.dev/files/d9c95fd0-6bb6-4a81-92fd-db840681974f.jpeg',
     price: '15 000 ₽',
-    guests: 8,
-    bedrooms: 4,
+    guests: 4,
+    bedrooms: 1,
     rating: 4.9,
     reviews: 42
   },
