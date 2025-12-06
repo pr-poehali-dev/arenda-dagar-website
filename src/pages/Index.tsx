@@ -11,7 +11,7 @@ const houses = [
   {
     id: 1,
     title: 'Современная вилла в лесу',
-    image: 'https://cdn.poehali.dev/projects/7f3a8850-278f-4553-b2e5-a08ed597819e/files/168c8e37-e7f0-4ec8-989b-033f598d2eb8.jpg',
+    image: 'https://cdn.poehali.dev/files/d9c95fd0-6bb6-4a81-92fd-db840681974f.jpeg',
     price: '15 000 ₽',
     guests: 8,
     bedrooms: 4,
