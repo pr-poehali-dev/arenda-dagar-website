@@ -291,7 +291,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h4 className="font-bold text-lg mb-1">Телефон</h4>
-                    <p className="text-muted-foreground">+7 (999) 123-45-67</p>
+                    <p className="text-muted-foreground">+7 (913) 065-59-00</p>
                     <p className="text-sm text-muted-foreground mt-1">Ежедневно с 9:00 до 21:00</p>
                   </div>
                 </div>
@@ -346,7 +346,7 @@ const Index = () => {
             <div>
               <h4 className="font-bold mb-4">Контакты</h4>
               <div className="space-y-2 text-gray-400">
-                <p>+7 (999) 123-45-67</p>
+                <p>+7 (913) 065-59-00</p>
                 <p>info@dagar.ru</p>
                 <p>Московская область</p>
               </div>
